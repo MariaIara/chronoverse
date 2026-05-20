@@ -4,7 +4,7 @@ import { CopyIcon } from '@lucide/vue';
 </script>
 
 <template>
-  <header class="flex justify-between items-center p-2.5">
+  <header class="flex justify-between items-center pt-5 p-2.5">
     <div>
       <h3 class="text-2xl font-thin italic">CHRONOVERSE</h3>
       <p class="text-[#A0A0C0] text-xs mt-1">Plataforma de Identidade e Progresso Interoperável</p>

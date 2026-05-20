@@ -1,5 +1,7 @@
 <script setup>
+import Communities from '@/components/Communities.vue';
 import Events from '@/components/Events.vue';
+import Footer from '@/components/Footer.vue';
 import Header from '@/components/Header.vue';
 import Hero from '@/components/Hero.vue';
 import Itens from '@/components/Itens.vue';
@@ -17,6 +19,7 @@ import Timeline from '@/components/Timeline.vue';
         <ProfileCard />
         <Nivel />
         <Itens />
+        <Footer />
       </div>
 
       <div>
@@ -26,6 +29,7 @@ import Timeline from '@/components/Timeline.vue';
       <div>
         <Timeline />
         <Events />
+        <Communities />
       </div>
     </section>
   </main>

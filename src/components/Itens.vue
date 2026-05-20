@@ -8,19 +8,19 @@
     <span class="block my-2 w-full h-px bg-[#16162A]"></span>
 
     <div class="grid grid-cols-4 gap-3">
-      <div>
+      <div class="hover:scale-95 transition-all cursor-pointer">
         <div class="w-20 h-20 rounded-lg bg-[#2A2A4A] animate-pulse"></div>
         <span class="text-xs block mx-auto text-center mt-1">Equipamento 1</span>
       </div>
-      <div>
+      <div class="hover:scale-95 transition-all cursor-pointer">
         <div class="w-20 h-20 rounded-lg bg-[#2A2A4A] animate-pulse"></div>
         <span class="text-xs block mx-auto text-center mt-1">Equipamento 2</span>
       </div>
-      <div>
+      <div class="hover:scale-95 transition-all cursor-pointer">
         <div class="w-20 h-20 rounded-lg bg-[#2A2A4A] animate-pulse"></div>
         <span class="text-xs block mx-auto text-center mt-1">Equipamento 3</span>
       </div>
-      <div>
+      <div class="hover:scale-95 transition-all cursor-pointer">
         <div class="w-20 h-20 rounded-lg bg-[#2A2A4A] animate-pulse"></div>
         <span class="text-xs block mx-auto text-center mt-1">Equipamento 4</span>
       </div>

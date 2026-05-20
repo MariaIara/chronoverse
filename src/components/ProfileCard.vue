@@ -14,7 +14,7 @@ import { CopyIcon } from '@lucide/vue';
 
         <div class="flex items-center gap-3 text-xs text-[#A0A0C0]">
           ID:
-          <div class="cursor-pointer flex items-center gap-1 p-1 bg-gray-800 rounded">
+          <div class="cursor-pointer flex items-center gap-1 p-1 bg-[#1a1a30] rounded-lg">
             <span>X0d12Des...</span>
             <CopyIcon class="w-3.5 h-3.5" />
           </div>
