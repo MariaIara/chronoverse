@@ -9,7 +9,7 @@ import { CopyIcon } from '@lucide/vue';
     <span class="block my-2 w-full h-px bg-[#16162A]"></span>
     <div class="flex gap-5 mt-5">
       <img class="rounded-lg w-40 h-40"
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_L9n9xaJtFYlHhSl2viawsYV5L-tpDCSF7w&s" alt="">
+        src="../assets/profile.png" alt="">
       <div>
 
         <div class="flex items-center gap-3 text-xs text-[#A0A0C0]">
