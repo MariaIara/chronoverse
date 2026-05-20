@@ -28,12 +28,12 @@ import { CheckIcon, PlusIcon } from '@lucide/vue';
         <p class="text-xs text-[#8080a8]">Comunidade</p>
       </div>
 
-      <div class="flex flex-col items-center cursor-pointer hover:scale-95 transition-all">
+      <a href="/explore" class="flex flex-col items-center cursor-pointer hover:scale-95 transition-all">
         <div class="w-20 h-20 rounded-full bg-[#2A2A4A] flex justify-center items-center">
           <PlusIcon class="text-[#A0A0C0] w-8 h-8" />
         </div>
         <h4 class="text-xs mt-1 text-[#A0A0C0]">EXPLORAR</h4>
-      </div>
+      </a>
     </div>
   </div>
 </template>

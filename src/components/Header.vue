@@ -6,7 +6,7 @@ import { CopyIcon } from '@lucide/vue';
 <template>
   <header class="flex justify-between items-center pt-5 p-2.5">
     <div>
-      <h3 class="text-2xl font-thin italic">CHRONOVERSE</h3>
+      <a href="/" class="text-2xl font-thin italic">CHRONOVERSE</a>
       <p class="text-[#A0A0C0] text-xs mt-1">Plataforma de Identidade e Progresso Interoperável</p>
     </div>
     <div class="flex justify-between items-center gap-6 text-[#A0A0C0] text-xs">

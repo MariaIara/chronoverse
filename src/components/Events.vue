@@ -46,6 +46,6 @@ import { CheckIcon } from '@lucide/vue';
 
     </div>
 
-    <a href="#" class="block text-center mt-5 w-full py-1.5 transition-all border border-[#1a1a30] rounded-lg text-sm hover:bg-[#1a1a30]">Ver tudo</a>
+    <a href="/events" class="block text-center mt-5 w-full py-1.5 transition-all border border-[#1a1a30] rounded-lg text-sm hover:bg-[#1a1a30]">Ver tudo</a>
   </div>
 </template>

@@ -23,7 +23,7 @@
       </div>
     </div>
 
-    <a href="#"
+    <a href="/timeline"
       class="block text-center mt-5 w-full py-1.5 border border-[#1a1a30] rounded-lg text-sm transition-all hover:bg-[#1a1a30]">Ver
       tudo</a>
   </div>
