@@ -12,19 +12,19 @@ import { CheckIcon, PlusIcon } from '@lucide/vue';
     <div class="grid grid-cols-4 gap-2">
       <div class="flex flex-col items-center hover:scale-95 transition-all cursor-pointer">
         <div class="w-20 h-20 rounded-full bg-[#2A2A4A] animate-pulse border-2 border-[#B06AFF]"></div>
-        <h4 class="text-sm mt-1 text-[#A0A0C0]">Desitno 1</h4>
+        <h4 class="text-sm mt-1 text-[#A0A0C0]">Destino 1</h4>
         <p class="text-xs text-[#8080a8]">Comunidade</p>
       </div>
 
       <div class="flex flex-col items-center hover:scale-95 transition-all cursor-pointer">
         <div class="w-20 h-20 rounded-full bg-[#2A2A4A] animate-pulse border-2 border-[#B06AFF]"></div>
-        <h4 class="text-sm mt-1 text-[#A0A0C0]">Desitno 2</h4>
+        <h4 class="text-sm mt-1 text-[#A0A0C0]">Destino 2</h4>
         <p class="text-xs text-[#8080a8]">Comunidade</p>
       </div>
 
       <div class="flex flex-col items-center hover:scale-95 transition-all cursor-pointer">
         <div class="w-20 h-20 rounded-full bg-[#2A2A4A] animate-pulse border-2 border-[#B06AFF]"></div>
-        <h4 class="text-sm mt-1 text-[#A0A0C0]">Desitno 3</h4>
+        <h4 class="text-sm mt-1 text-[#A0A0C0]">Destino 3</h4>
         <p class="text-xs text-[#8080a8]">Comunidade</p>
       </div>
 
